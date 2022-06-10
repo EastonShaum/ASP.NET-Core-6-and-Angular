@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogwMi+8S+2q/LhOKWvdpgR4WxSrswy96dG7ZlOZzk99OOiQwoah9zHcjI+9QvIIkuY+GZBOlAXWjxDQfKw+6wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\easton.shaum\\Desktop\\Book Club\\My Code\\ASP.NET-Core-6-and-Angular\\HealthCheck\\HealthCheckAPI\\HealthCheckAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\easton.shaum\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\easton.shaum\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\easton.shaum\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\easton.shaum\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\easton.shaum\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\easton.shaum\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
